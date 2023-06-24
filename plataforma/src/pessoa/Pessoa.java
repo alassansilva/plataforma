@@ -4,7 +4,7 @@ public class Pessoa {
 	private String nome;
 	private String sobrenome;
 	public int idade;
-	
+	public boolean situacao = true;
 	
 		
 	public int getIdade() {
